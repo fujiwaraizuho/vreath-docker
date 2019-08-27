@@ -1,7 +1,7 @@
 # Vreath-CLI Docker Image
 
 ## Image
-Repo: `fujiwaraizuho/vreath-docker:tag`
+Repo: `fujiwaraizuho/vreath-docker:tag` \
 Tag: `latest` - Ubuntu latest version
 
 ## How to use
